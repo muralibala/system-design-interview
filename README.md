@@ -13,11 +13,12 @@ ASG: https://docs.aws.amazon.com/autoscaling/ec2/userguide/AutoScalingGroup.html
 ALB - https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html <br/>
 CDN - https://aws.amazon.com/cloudfront/<br/>
 NoSQL vs SQL - https://medium.com/must-know-computer-science/system-design-sql-vs-nosql-4cdfb9f53d69<br/>
-Websocket - https://medium.com/system-design-blog/long-polling-vs-websockets-vs-server-sent-events-c43ba96df7c1<br/>
-[InfoQ video from Netflix/Twitter/Amazon](https://www.youtube.com/user/MarakanaTechTV) <br/>
+[Websocket](https://medium.com/system-design-blog/long-polling-vs-websockets-vs-server-sent-events-c43ba96df7c1)<br/>
+[InfoQ video from Netflix/Twitter/Amazon](https://www.youtube.com/user/MarakanaTechTV) <br/
 [Large-Scale Low-Latency Storage for the Social Network](https://www.youtube.com/watch?v=5RfFhMwRAic) <br/>
 [System Design Mock Interview - Kafka](https://www.youtube.com/watch?v=1VVptdoKIwU) <br/>
 [Computer Science Fundamentals](https://medium.com/must-know-computer-science)<br/>
+[Long Polling vs WebSockets vs Server-Sent Events](https://medium.com/system-design-blog/long-polling-vs-websockets-vs-server-sent-events-c43ba96df7c1)
 
 # Good Reads
 
