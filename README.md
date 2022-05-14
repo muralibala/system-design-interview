@@ -17,6 +17,7 @@ Websocket - https://medium.com/system-design-blog/long-polling-vs-websockets-vs-
 [InfoQ video from Netflix/Twitter/Amazon](https://www.youtube.com/user/MarakanaTechTV) <br/>
 [Large-Scale Low-Latency Storage for the Social Network](https://www.youtube.com/watch?v=5RfFhMwRAic) <br/>
 [System Design Mock Interview - Kafka](https://www.youtube.com/watch?v=1VVptdoKIwU) <br/>
+[Computer Science Fundamentals](https://medium.com/must-know-computer-science)<br/>
 
 # Good Reads
 
